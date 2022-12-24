@@ -14,6 +14,7 @@
 		F83A86402956AF9400E6F830 /* DrawSomething.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F83A863E2956AF9400E6F830 /* DrawSomething.xcdatamodeld */; };
 		F83A86422956AF9500E6F830 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F83A86412956AF9500E6F830 /* Assets.xcassets */; };
 		F83A86452956AF9500E6F830 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F83A86432956AF9500E6F830 /* LaunchScreen.storyboard */; };
+		F83A864D2956E88700E6F830 /* Canvas.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83A864C2956E88700E6F830 /* Canvas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F83A86412956AF9500E6F830 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F83A86442956AF9500E6F830 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F83A86462956AF9500E6F830 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F83A864C2956E88700E6F830 /* Canvas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Canvas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F83A86372956AF9400E6F830 /* SceneDelegate.swift */,
 				F83A86392956AF9400E6F830 /* ViewController.swift */,
 				F83A863B2956AF9400E6F830 /* Main.storyboard */,
+				F83A864C2956E88700E6F830 /* Canvas.swift */,
 				F83A86412956AF9500E6F830 /* Assets.xcassets */,
 				F83A86432956AF9500E6F830 /* LaunchScreen.storyboard */,
 				F83A86462956AF9500E6F830 /* Info.plist */,
@@ -144,6 +147,7 @@
 				F83A863A2956AF9400E6F830 /* ViewController.swift in Sources */,
 				F83A86362956AF9400E6F830 /* AppDelegate.swift in Sources */,
 				F83A86402956AF9400E6F830 /* DrawSomething.xcdatamodeld in Sources */,
+				F83A864D2956E88700E6F830 /* Canvas.swift in Sources */,
 				F83A86382956AF9400E6F830 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
